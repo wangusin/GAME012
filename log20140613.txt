@@ -1,1 +1,0 @@
-06-13 16:01:09.919: E/GooglePlayServicesUtil(29763): The Google Play services resources were not found. Check your project configuration to ensure that the resources are included.
